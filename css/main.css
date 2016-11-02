@@ -147,3 +147,17 @@ div.footer li {
     padding: 5px 10px 0 0;
     vertical-align: bottom;
 }
+/*Responsive*/
+@media (max-width:426px){
+    .profile{
+        display: none;
+    }
+
+}
+
+@media (max-width:375px){
+    .share{
+        display: none;
+    }
+
+}
